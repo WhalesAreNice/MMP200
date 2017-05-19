@@ -1,0 +1,142 @@
+
+body{
+    color:white;
+    background-color:black;
+    font-family:Helvetica, sans-serif;
+}
+
+img{
+    width:100%;
+}
+
+.jumbotron{
+    margin-top:5%;
+    margin-bottom:5%;
+    padding-top:2%;
+    padding-bottom:2%;
+    color:white;
+    background-color:#0a0a0a;
+}
+
+h1, h2, h3{
+    text-align:center;
+    font-family:Walkway_SemiBold;
+}
+
+p{
+    padding-left:5%;
+    padding-right:5%;
+    padding-top:2%;
+    padding-bottom:2%;
+}
+
+h3{
+    margin-bottom:5% !important;
+}
+
+@font-face{
+    font-family:Walkway_SemiBold;
+    src: url(font/Walkway_SemiBold.ttf);
+}
+
+.navbar{
+    background-color:black !important;
+    
+}
+
+.nav li a{
+    color:white;
+    font-family:Walkway_SemiBold;
+    font-size:1.75em;
+}
+
+.nav li a:hover{
+    background-color:#333333 !important;
+}
+
+.navbar-nav>li>a{
+    color:white !important;
+}
+
+.dropdown-menu>li>a {
+    color:#fff !important;
+    background-color:black !important;
+}
+
+.dropdown-menu>li>a:hover{
+    background-color:#333333 !important;
+}
+
+
+.navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:focus, .navbar-default .navbar-nav>.open>a:hover {
+  color: white;
+  background-color: black;
+}
+
+.ticket{
+    margin-bottom:2.5%;
+}
+
+.btn, .btn-default{
+    font-weight:bold;
+    margin-left:5%;
+    display:inline;
+    font-size:1.5em;
+    text-decoration:none;
+}
+
+.btn:hover, .btn-default:hover{
+    text-decoration:none !important;
+}
+
+.pull-right{
+    color:black !important;
+}
+
+.pull-right:hover{
+    color:white !important;
+}
+
+.jumbotron{
+    margin-bottom:1% !important;
+}
+
+#concert{
+    margin-top:3%;
+}
+
+footer{
+    margin-top:3%;
+    border-top:solid 1px;
+    padding-top:1%
+}
+
+.panel-body p{
+    color:black;
+    padding:0;
+    padding-left:2%;
+    padding-right:2%;
+}
+
+.panel-body h3{
+    color:black;
+    margin:0 !important;
+    text-align:left;
+    padding-left:2%;
+    margin-bottom:1% !important; 
+}
+
+.panel-body a{
+    padding-left:2%;
+}
+
+.col-sm-4 img{
+    padding:2px;
+    border:3px double black;
+}
+
+.sizechange img {
+    padding:2px;
+    border:3px double black;
+    margin:0 auto;
+}
