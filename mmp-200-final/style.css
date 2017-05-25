@@ -142,23 +142,23 @@ footer{
 }
 
 .bot-nav {
-    margin-bottom:10%;
-    color:#a0a0a0;
+    margin-bottom:10% !important;
+    color:#a0a0a0 !important;
 }
 
 .bot-nav h2{
-    font-size:1.8em;
+    font-size:1.8em !important;
 }
 
 .bot-nav a{
-    color:#a0a0a0;
-    margin-left:20%;
-    float:left;
-    padding-right:20%;
+    color:#a0a0a0 !important;
+    margin-left:20% !important;
+    float:left !important;
+    padding-right:20% !important;
 }
 
 footer .container #copyright{
-    padding-top:10%;
+    padding-top:10% !important;
 }
 
 form {
