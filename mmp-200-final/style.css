@@ -159,6 +159,8 @@ footer{
 
 footer .container #copyright{
     padding-top:10% !important;
+    float:left;
+    margin-right:70%;
 }
 
 form {
