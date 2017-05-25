@@ -140,3 +140,35 @@ footer{
     border:3px double black;
     margin:0 auto;
 }
+
+.bot-nav {
+    margin-bottom:10%;
+    color:#a0a0a0;
+}
+
+.bot-nav h2{
+    font-size:1.8em;
+}
+
+.bot-nav a{
+    color:#a0a0a0;
+    margin-left:20%;
+    float:left;
+    padding-right:20%;
+}
+
+footer .container #copyright{
+    padding-top:10%;
+}
+
+form {
+    margin-top:5%;
+}
+
+#inputText {
+    height:200px;
+}
+
+#inputText ::input-placeholder{
+    margin-top:0;
+}
