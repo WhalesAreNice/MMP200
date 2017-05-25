@@ -148,9 +148,9 @@ footer{
 
 .bot-nav h2{
     font-size:1.8em !important;
-    text-align:left;
-    margin-left:20%;
-    margin-bottom:5%;
+    text-align:left !important;
+    margin-left:20% !important;
+    margin-bottom:5% !important;
 }
 
 .bot-nav a{
